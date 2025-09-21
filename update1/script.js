@@ -1,7 +1,7 @@
 // script.js
 // Your Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyBpTTk0xrFOFBEnBU62mWCgtbLbAYHZ3Is",
+    apiKey: "Enter your API Key here",
     authDomain: "career-and-skill-advisor-1ce79.firebaseapp.com",
     projectId: "career-and-skill-advisor-1ce79",
     storageBucket: "career-and-skill-advisor-1ce79.firebasestorage.app",

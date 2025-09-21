@@ -16,7 +16,7 @@ const auth = firebase.auth();
 const db = firebase.firestore();
 
 // API Key for Gemini (Replace with your actual key)
-const API_KEY = "AIzaSyBaT7G0IVOhzdCW08_Hg9EQHw1ibw5Vx5M";
+const API_KEY = "Enter ypur API Key here";
 const API_ENDPOINT = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key=${API_KEY}`;
 
 // Supported Indian languages and their codes for the chatbot
